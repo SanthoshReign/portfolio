@@ -1,0 +1,54 @@
+#projects{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.projectTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1rem;
+}
+.projects{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
+
+.card{
+    background-color: hsl(0, 0%, 25%);
+    width: 18rem;
+    margin: 2rem;
+    border-radius: 20px;
+}
+.card-body{
+    height: 9.2rem;
+}
+
+.card-img{
+    object-fit: cover;
+    height: 11rem;
+    width: 18rem;
+    border-radius: 20px;
+    padding: .1rem;
+}
+.card-title{
+    font-size: 1.2rem;
+    color: black;
+}
+.card-text{
+    margin-bottom: 1rem;
+    font-size: .8rem;
+}
+.btn{
+    padding: .5rem;
+    font-size: .75rem;
+}

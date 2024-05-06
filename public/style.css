@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Poppins', sans-serif;/*if browser
+    doesn't support poppins, it will use the sans-serif 
+    font-family given as default by us*/
+}
+
+body{
+    background: hsl(0, 0%, 02%);
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+}
