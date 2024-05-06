@@ -9,15 +9,15 @@ const Certifications = () => {
             <div className="certificate">
                 <div className="ct">
                     <h3 className="certificateName">Core Java</h3>
-                    <button><a href="https://certificate.codingninjas.com/verify/f23ef836c2973048">View</a></button>
+                    <button><a href="https://drive.google.com/file/d/1gTdx7Lw4e5r93ZN7gzIrFhiDaRBZ5Klv/view?usp=sharing">View</a></button>
                 </div>
                 <div className="ct">
                     <h3 className="certificateName">DataStructure and Algorithm</h3>
-                    <button><a href="https://certificate.codingninjas.com/verify/74cb59dfda959193">View</a></button>
+                    <button><a href="https://drive.google.com/file/d/1gTdx7Lw4e5r93ZN7gzIrFhiDaRBZ5Klv/view?usp=sharing">View</a></button>
                 </div>
                 <div className="ct">
                     <h3 className="certificateName">Front-end</h3>
-                    <button><a href="https://certificate.codingninjas.com/verify/f7d44dbbb6dd3fd3">View</a></button>
+                    <button><a href="https://drive.google.com/file/d/1gTdx7Lw4e5r93ZN7gzIrFhiDaRBZ5Klv/view?usp=sharing">View</a></button>
                 </div>
                 <div className="ct">
                     <h3 className="certificateName">NodeJS</h3>
